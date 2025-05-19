@@ -1,0 +1,26 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Data and output
+data/
+outputs/
+*.csv
+*.txt
+
+# GUI artifacts
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System or IDE specific
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+.DS_Store
