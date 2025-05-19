@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Device Name="QUATTROCENTO; ID=Unknown" DeviceTotalChannels="72" Model="40096" Sources="1" SampleFrequency="2048" Firmware="Unknown" ad_bits="16" AnalogOutConn="0" AnalogOutCh="0" AnalogOutGain="1">
+  <Channels>
+    <Adapter ID="AD1x64" Description="64 channels single adapter" Gain="150" HighPassFilter="10" LowPassFilter="500" DetectionMode="0" AdapterIndex="2" ChannelStartIndex="0">
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="0" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="1" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="2" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="3" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="4" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="5" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="6" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="7" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="8" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="9" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="10" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="11" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="12" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="13" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="14" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="15" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="16" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="17" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="18" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="19" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="20" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="21" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="22" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="23" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="24" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="25" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="26" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="27" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="28" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="29" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="30" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="31" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="32" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="33" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="34" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="35" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="36" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="37" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="38" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="39" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="40" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="41" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="42" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="43" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="44" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="45" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="46" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="47" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="48" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="49" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="50" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="51" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="52" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="53" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="54" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="55" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="56" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="57" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="58" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="59" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="60" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="61" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="62" Muscle="Tibialis Anterior" Side="Right" />
+      <Channel ID="GR10MM0808" Prefix="MULTIPLE IN 1 (Channel 1-&gt;64) - " Description="64 Adhesive Array 10 mm i.e.d." Gain="1" Index="63" Muscle="Tibialis Anterior" Side="Right" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="19" ChannelStartIndex="64">
+      <Channel ID="RampChannel" Prefix="" Description="Ramp Channel" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="20" ChannelStartIndex="65">
+      <Channel ID="BufferChannel" Prefix="" Description="Buffer Channel" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="21" ChannelStartIndex="66">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="22" ChannelStartIndex="67">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="23" ChannelStartIndex="68">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="24" ChannelStartIndex="69">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="25" ChannelStartIndex="70">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+    <Adapter ID="AdapterControl" Description="AdapterControl" Gain="1" HighPassFilter="0" LowPassFilter="100000" DetectionMode="0" AdapterIndex="26" ChannelStartIndex="71">
+      <Channel ID="AUX  Acceleration" Prefix="" Description="Accelerometer Transducer" Gain="1" Index="0" Muscle="Not defined" Side="Not Defined" />
+    </Adapter>
+  </Channels>
+</Device>

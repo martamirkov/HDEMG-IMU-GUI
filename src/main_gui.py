@@ -14,12 +14,7 @@ from plotting import plot_emg_tracks, plot_imu
 from saving import save_emg_txt, save_imu_txt
 from PyQt5.QtWidgets import QInputDialog, QComboBox
 import matplotlib.pyplot as plt
-
-
 import qdarkstyle
-
-app = QApplication(sys.argv)
-app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())
 
 
 class EMGIMUTool(QWidget):
